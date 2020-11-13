@@ -11,3 +11,7 @@ I'm currently creating a series where I explain how to complete several challeng
 ### Where to find me
 
 You can find me on [Twitter](https://twitter.com/montalesi) @montalesi or on [DevTo](https://dev.to/albertomontalesi) @albertomontalesi
+
+### Other Projects
+
+In November 2020 I've launched **[map2maps.com](https://map2maps.com)** a map comparison tool that allows you to draw a shape on one map and see how it compares on up to 3 other maps.
