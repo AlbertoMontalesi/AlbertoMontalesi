@@ -2,7 +2,7 @@
 
 I'm a self taught full stack developer from Italy, currently located in Vietnam where I work on enterprise software using a stack comprised of Angular,MySQL and AWS.
 
-Being passionate about JavaScript and the web, I wrote and published the book [Complete Guide to Modern JavaScript](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript), now at its third edition which I've also turned into a Course On [Educative](https://www.educative.io/courses/complete-guide-to-modern-javascript?aff=BqmB).
+Being passionate about JavaScript and the web, I wrote and published the book [Complete Guide to Modern JavaScript](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript), now at its fourth edition which I've also turned into a Course On [Educative](https://www.educative.io/courses/complete-guide-to-modern-javascript?aff=BqmB).
 
 I also write tutorials and other (hopefully) useful articles on my website [InspiredWebDev](https://inspiredwebdev.com/).
 
