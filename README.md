@@ -10,10 +10,13 @@ I'm currently creating a series where I explain how to complete several challeng
 
 ### Where to find me
 
-<p align="left">
-<a href="https://dev.to/albertomontalesi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="albertomontalesi" height="30" width="40" /></a>
-<a href="https://twitter.com/montalesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="montalesi" height="30" width="40" /></a>
-</p>
+You can contact me on twitter <a href="https://twitter.com/montalesi" target="blank">@montalesi</a>
+
+### Support
+
+<p><a href="https://www.buymeacoffee.com/pwCmilkGn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pwCmilkGn" /></a></p><br><br>
+
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertomontalesi&show_icons=true&locale=en" alt="albertomontalesi" /></p>
 
