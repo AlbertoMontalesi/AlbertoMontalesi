@@ -10,9 +10,16 @@ I'm currently creating a series where I explain how to complete several challeng
 
 ### Where to find me
 
-You can find me on [Twitter](https://twitter.com/montalesi) @montalesi or on [DevTo](https://dev.to/albertomontalesi) @albertomontalesi
+<p align="left">
+<a href="https://dev.to/albertomontalesi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="albertomontalesi" height="30" width="40" /></a>
+<a href="https://twitter.com/montalesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="montalesi" height="30" width="40" /></a>
+</p>
 
-### Other Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertomontalesi&show_icons=true&locale=en" alt="albertomontalesi" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertomontalesi" alt="albertomontalesi" /></a> </p>
+
+### Personal Projects I've worked on
 
 In November 2020 I've launched **[map2maps.com](https://map2maps.com)** a map comparison tool that allows you to draw a shape on one map and see how it compares on up to 3 other maps.
 
