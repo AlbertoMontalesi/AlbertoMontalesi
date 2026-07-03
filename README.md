@@ -20,4 +20,4 @@ One that i particuarlly liked developing was a map comparison tool that allows y
 ![image](https://user-images.githubusercontent.com/23130353/221456552-3e3a675e-dc0a-446a-b4c8-59e3da4b3f3d.png)
 
 
-[![My GitFut card](https://gitfut.com/AlbertoMontalesi.png)](https://gitfut.com/AlbertoMontalesi)
+[![My GitFut card](https://gitfut.com/albertomontalesi.png)](https://gitfut.com/albertomontalesi)
